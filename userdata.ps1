@@ -1,0 +1,1 @@
+az ad user create --display-name "John Doe" --password "Yemi001@/" --user-principal-name "test@ookirigabrieloutlook.onmicrosoft.com"
