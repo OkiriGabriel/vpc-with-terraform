@@ -5,7 +5,8 @@ This repository contains files for AWS VPC and user data for EC2 instance.
 
 Any feedback, opinions or suggestions is very welcome!
 
-
+## Architecture
+vpc-architure.jpeg
 
 ## ⚙ Dev Setup (VS Code)
 
