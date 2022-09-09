@@ -1,12 +1,29 @@
-# Project name: Build a VPC in AWS using Terraform
+## Serverless Application With API Gateway, AWS Lambda, and DynamoDB using Terrafor
 
- 
-This repository contains files for AWS VPC and user data for EC2 instance. 
+<p align="center">
+  <img src="banner.png" height="400">
+  <h1 align="center">
+Architecture
+    <br>
+    <a href="https://github.com/OkiriGabriel/vpc-with-terraform"><img alt="build-status" src="https://i.ibb.co/v1rCvqn/vpc-architure.jpg" /></a>
+    
+  </h1>
+</p>
 
-Any feedback, opinions or suggestions is very welcome!
+## Requirements
 
-## Architecture
-vpc-architure.jpeg
+No requirements.
+
+## Providers
+
+| Name | Version |
+|------|---------|
+| <a name="provider_aws"></a> [aws](#provider\_aws) | n/a |
+
+## Modules
+
+No modules.
+
 
 ## ⚙ Dev Setup (VS Code)
 

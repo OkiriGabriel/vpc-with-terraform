@@ -29,6 +29,10 @@ resource "aws_subnet" "private-subnet" {
 }
 
 
+
+
+
+
 # resource "aws_db_subnet_group" "db-subnet-group" {
 #   name       = "main"
 #   subnet_ids = [aws_subnet.db-private-subnet.id, aws_subnet.private-subnet.id]
@@ -37,3 +41,6 @@ resource "aws_subnet" "private-subnet" {
 #     Name = "My DB subnet group"
 #   }
 # }
+
+
+
