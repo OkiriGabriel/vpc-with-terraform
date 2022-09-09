@@ -1,4 +1,4 @@
-## Serverless Application With API Gateway, AWS Lambda, and DynamoDB using Terrafor
+## VPC with terraform
 
 <p align="center">
   <img src="banner.png" height="400">
